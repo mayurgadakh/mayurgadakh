@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurgadakh&label=Profile%20views&color=e100ff&style=flat-square" alt="mayurgadakh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurgadakh" alt="mayurgadakh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurgadakh"&theme=onedark alt="mayurgadakh" /></a> </p>
 
 - 📫 How to reach me **mayurgadakh12@email.com**
 
