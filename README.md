@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mayurgadakh12@email.com**
 
-- ⚡ Fun fact **I am a fool**
+- ⚡ Passionate Coder who just loves building stuff through programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
