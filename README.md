@@ -1,4 +1,4 @@
-![Header](./headerimage.jpeg)
+![Header](./headerimage.png)
 
 <h1 align="center">Mayur Gadakh</h1>
 <p align="center"><strong>Full-Stack & AI Engineer · SaaS & Fintech · India 🇮🇳</strong></p>
